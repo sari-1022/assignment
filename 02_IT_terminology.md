@@ -4,7 +4,7 @@
 |SaaS|（software as a Service）クラウドの種類の一つ。インターネット経由でアプリケーションやソフトウェアを提供するサービスのこと。端末にソフトウェアをインストールしなくても、インターネットに接続することで利用できる。[IT用語集「SaaS」](https://swri.jp/glossary/SaaS)|
 |AI|人工知能という意味で、自ら学習する知的行動をコンピュータに行わせる技術のこと。例としては質問をして回答をしたり、画像を生成する「ChatGPT」などが挙げられる。[AI（人工知能とは何か？）](https://monstar-lab.com/dx/technology/about-ai/)|
 |API|アプリケーションプログラミングインターフェースの略称。ソフトウェアやシステム同士が連携するためのインターフェースのこと。APIを利用することで異なるアプリケーション間でのデータ交換や処理ができるようになる。|
-|![APIとは何か？]([https://images.app.goo.gl/o9LBDjdnFujwFMms7](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sbbit.jp%2Farticle%2Fcont1%2F62752&psig=AOvVaw0LlTf1RMp0CaC22AxCg29s&ust=1738896733449000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjc9KOFrosDFQAAAAAdAAAAABAE))|[APIとは何か？](https://www.sbbit.jp/article/cont1/62752)|
+|![APIとは何か？](https://www.google.com/collections/s/list/buK0nZo8SEaQOEEOEn-QyQ/VL2C6_I0Q6Q)|[APIとは何か？](https://www.sbbit.jp/article/cont1/62752)|
 |DX|デジタルトランスフォーメーションの略称。デジタル技術を社会に浸透させて生活をより良いものにすること。|
 |IoT|internet of thingsの略称。自動車や家電など「モノ」がインターネットに接続し、情報のやり取り、操作を行う技術のこと。|
 |サーバー|ネットワーク上のコンピュータの中で、他のコンピュータからの要求や指示を受け、情報や処理結果を返す役割を持つソフトウェアのこと。|
